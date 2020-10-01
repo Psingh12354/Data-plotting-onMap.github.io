@@ -1,4 +1,4 @@
-# Data-Visual-of-Motor-crash-in-NYC
+<h1 align=center> Data-Visual-of-Motor-crash-in-NYC</h1>
 The code given is the representation of Motorvehicle crashes in NYC on the basis of data provided by NYC police
 
 The code uses streamlit library to make a WebApp which displays the data of Accidents in Newyork City. The data is of NYC police department.
